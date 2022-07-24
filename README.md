@@ -62,18 +62,18 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 ## Pattern: Cyclic Sort
 
 - Couldn't find Cyclic Sort
-- [ ] https://leetcode.com/problems/missing-number/ (Blind)
-- [ ] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
-- [ ] https://leetcode.com/problems/find-the-duplicate-number/
-- [ ] https://leetcode.com/problems/find-all-duplicates-in-an-array/
-- [ ] https://leetcode.com/problems/set-mismatch/
-- [ ] https://leetcode.com/problems/first-missing-positive/
-- [ ] https://leetcode.com/problems/kth-missing-positive-number/
+- [X] https://leetcode.com/problems/missing-number/ (Blind)
+- [X] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+- [X] https://leetcode.com/problems/find-the-duplicate-number/
+- [X] https://leetcode.com/problems/find-all-duplicates-in-an-array/
+- [X] https://leetcode.com/problems/set-mismatch/
+- [X] https://leetcode.com/problems/first-missing-positive/
+- [X] https://leetcode.com/problems/kth-missing-positive-number/
 
 ## Pattern: In-place Reversal of a LinkedList
-- [ ] https://leetcode.com/problems/reverse-linked-list/ (Blind)
-- [ ] https://leetcode.com/problems/reverse-linked-list-ii/
-- [ ] https://leetcode.com/problems/reverse-nodes-in-k-group/
+- [X] https://leetcode.com/problems/reverse-linked-list/ (Blind)
+- [X] https://leetcode.com/problems/reverse-linked-list-ii/
+- [X] https://leetcode.com/problems/reverse-nodes-in-k-group/
 - Alternation to previous question
 - [ ] https://leetcode.com/problems/rotate-list/
 
