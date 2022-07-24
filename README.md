@@ -128,10 +128,10 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ (Blind)
 
 ## Pattern: Bitwise XOR
-- [ ] https://leetcode.com/problems/single-number/
-- [ ] https://leetcode.com/problems/single-number-iii/
-- [ ] https://leetcode.com/problems/complement-of-base-10-integer/
-- [ ] https://leetcode.com/problems/flipping-an-image/
+- [X] https://leetcode.com/problems/single-number/
+- [X] https://leetcode.com/problems/single-number-iii/
+- [X] https://leetcode.com/problems/complement-of-base-10-integer/
+- [X] https://leetcode.com/problems/flipping-an-image/
 
 ## Pattern: Top 'K' elements
 - Couldn't find Top 'K' elements
