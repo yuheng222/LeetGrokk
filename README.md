@@ -90,13 +90,13 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/binary-tree-right-side-view/
 
 ## Pattern: Tree Depth First Search
-- [ ] https://leetcode.com/problems/path-sum/
-- [ ] https://leetcode.com/problems/path-sum-ii/
-- [ ] https://leetcode.com/problems/sum-root-to-leaf-numbers/
-- [ ] https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/
-- [ ] https://leetcode.com/problems/path-sum-iii/
-- [ ] https://leetcode.com/problems/diameter-of-binary-tree/
-- [ ] https://leetcode.com/problems/binary-tree-maximum-path-sum/ (Blind)
+- [X] https://leetcode.com/problems/path-sum/
+- [X] https://leetcode.com/problems/path-sum-ii/
+- [X] https://leetcode.com/problems/sum-root-to-leaf-numbers/
+- [X] https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/
+- [X] https://leetcode.com/problems/path-sum-iii/
+- [X] https://leetcode.com/problems/diameter-of-binary-tree/
+- [X] https://leetcode.com/problems/binary-tree-maximum-path-sum/ (Blind)
 
 ## Pattern: Two Heaps
 - [ ] https://leetcode.com/problems/find-median-from-data-stream/ (Blind)
